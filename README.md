@@ -7,3 +7,5 @@ Taller  GitHub - Valentina
  -Crear un repositorio local con Git. 
  -Conectarlo con un repositorio remoto en GitHud. 
  -Crear ramas para nuevas funciones.
+
+ Modificacion realiza en la rama feature-descripcion. 
